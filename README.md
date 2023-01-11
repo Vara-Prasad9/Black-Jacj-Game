@@ -1,6 +1,6 @@
 
 Bored? Play Mini Casino( BlackJack Game)<br>
-https://vara-prasad9.github.io/Black-Jacj-Game/
+https://vara-prasad9.github.io/Black-Jacj-Game/  <br>
 PS: Dont get disappointed when get lost in the game , keep on trying untill you become broke🎲🃏💸
 
 Quick start:
